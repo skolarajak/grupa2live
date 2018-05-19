@@ -1,1 +1,3 @@
 Ovo je drugi fajl; prvi red.
+2. red, fajl2.txt
+Dodat i treci red.
