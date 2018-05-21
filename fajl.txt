@@ -1,0 +1,6 @@
+Ovo je moj prvi red.
+Ovo je drugi red u fajlu.
+Ovo je treci red.
+4. red
+5. red dodat da bude commitovan kroz Tortoise Git.
+6. red, da probamo GitKraken
